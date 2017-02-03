@@ -14,6 +14,7 @@
 		3984EDFF1E44FD8D0065908F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3984EDFD1E44FD8D0065908F /* LaunchScreen.storyboard */; };
 		3984EE0A1E44FD8D0065908F /* JSON_FunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3984EE091E44FD8D0065908F /* JSON_FunTests.swift */; };
 		3984EE151E44FD8D0065908F /* JSON_FunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3984EE141E44FD8D0065908F /* JSON_FunUITests.swift */; };
+		3984EE231E44FDA40065908F /* File in Resources */ = {isa = PBXBuildFile; fileRef = 3984EE221E44FDA40065908F /* File */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3984EE101E44FD8D0065908F /* JSON_FunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JSON_FunUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3984EE141E44FD8D0065908F /* JSON_FunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSON_FunUITests.swift; sourceTree = "<group>"; };
 		3984EE161E44FD8D0065908F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3984EE221E44FDA40065908F /* File */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3984EDFB1E44FD8D0065908F /* Assets.xcassets */,
 				3984EDFD1E44FD8D0065908F /* LaunchScreen.storyboard */,
 				3984EE001E44FD8D0065908F /* Info.plist */,
+				3984EE221E44FDA40065908F /* File */,
 			);
 			path = JSON_Fun;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3984EE231E44FDA40065908F /* File in Resources */,
 				3984EDFF1E44FD8D0065908F /* LaunchScreen.storyboard in Resources */,
 				3984EDFC1E44FD8D0065908F /* Assets.xcassets in Resources */,
 				3984EDFA1E44FD8D0065908F /* Main.storyboard in Resources */,
